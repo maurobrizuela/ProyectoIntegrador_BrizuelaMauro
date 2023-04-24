@@ -11,9 +11,9 @@ div{
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px coral;
         left: 3%;
-        top: 600px;
+        top: 740px;
     }
     
 }
@@ -24,7 +24,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 630px;
+        top: 780px;
     }
 }
 /*etiqueta nombre*/
