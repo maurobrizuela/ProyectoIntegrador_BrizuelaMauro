@@ -1,0 +1,28 @@
+.row{
+    background-color: aquamarine;
+    padding: 20px;
+}
+.contenedor{
+    width: auto;
+}
+.parte1, .parte2{
+    display: inline-block;
+    text-align:justify ;
+}
+.img-proyecto{
+box-shadow: 10px 10px 30px black;
+box-shadow: ejeX ejeY difumasion color coral;
+background-color: coral;
+position: relative;
+bottom: 70px;
+}
+@media (max-width: 767px){
+    #proj{
+        position: relative;
+        width: 30%;
+        border-radius: 10%;
+        box-shadow: 3px 3px 3px grey;
+        left: 33%;
+        bottom: 10px;
+    }
+}
